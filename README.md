@@ -44,6 +44,7 @@ Task 2: Average of Elements
 
 First, I used recursion to calculate the sum of all elements in the array.
 Then I divided the sum by the number of elements to get the average.
+![Task 2](task2.png)
 
 ---
 
@@ -51,6 +52,7 @@ Task 3: Prime Number Check
 
 This function checks if a number is prime by dividing it by smaller numbers recursively.
 If the number is divisible by any number (except 1), it is not prime.
+![Task 3](task3.png)
 
 ---
 
@@ -58,6 +60,7 @@ Task 4: Factorial
 
 The factorial function multiplies a number by all smaller numbers down to 1.
 It uses recursion by calling itself with n-1 until it reaches 0 (base case).
+![Task 4](task4.png)
 
 ---
 
@@ -65,6 +68,7 @@ Task 5: Fibonacci Number
 
 This function calculates Fibonacci numbers using recursion.
 Each number is the sum of the two previous numbers, and the base cases are 0 and 1.
+![Task 5](task5.png)
 
 ---
 
@@ -72,6 +76,7 @@ Task 6: Power Function
 
 This function calculates aⁿ by recursively multiplying the number a.
 It reduces the power step by step until it reaches 0.
+![Task 6](task6.png)
 
 ---
 
@@ -79,6 +84,7 @@ Task 7: Reverse Output
 
 This function prints elements of an array in reverse order.
 It starts from the last element and moves backward using recursion.
+![Task 7](task7.png)
 
 ---
 
@@ -86,6 +92,7 @@ Task 8: Check Digits in String
 
 This function checks if all characters in a string are digits.
 It goes through the string one by one and stops if it finds a non-digit.
+![Task 8](task8.png)
 
 ---
 
@@ -93,6 +100,7 @@ Task 9: Count Characters in a String
 
 This function counts characters by removing one character at a time.
 It continues until the string becomes empty (base case).
+![Task 9](task9.png)
 
 ---
 
@@ -100,40 +108,7 @@ Task 10: GCD
 
 This function finds the greatest common divisor using the Euclidean algorithm.
 It recursively replaces the numbers until the second number becomes 0.
-
----
-
-## Screenshots
-
-### Task 1
-![Task 1](task1.png)
-
-### Task 2
-![Task 2](task2.png)
-
-### Task 3
-![Task 3](task3.png)
-
-### Task 4
-![Task 4](task4.png)
-
-### Task 5
-![Task 5](task5.png)
-
-### Task 6
-![Task 6](task6.png)
-
-### Task 7
-![Task 7](task7.png)
-
-### Task 8
-![Task 8](task8.png)
-
-### Task 9
-![Task 9](task9.png)
-
-### Task 10
-![Task 10](task10.png)
+![Task 10](task10.png) 
 
 ---
 
